@@ -1,0 +1,5 @@
+gitte:
+  oauth:
+    clientId: fcfbd005bcf18a4ee3cf4366fd175eb964407039f3468165b3f4c54943876421
+    clientSecret: 1fec7a5f63e68b46760301b12f69d48dcab872f0b45b9e006ae8cab8019d3624
+    callback: http://localhost:8081/callback
